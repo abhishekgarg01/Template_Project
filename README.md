@@ -1,2 +1,2 @@
-# top_gun_maverick
-This Repo will contain code for learning new topics 
+# Template Spring boot project
+This Repo will contain template project code for creating new repositories.
